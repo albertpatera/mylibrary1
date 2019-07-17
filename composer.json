@@ -1,5 +1,5 @@
 {
-    "name": "albert/composer-library-template",
+    "name": "albertpatera/composer-library-template",
     "description": "Boilerplate package for creating other packages.",
     "keywords": ["template", "composer", "package"],
     "license": "DBAD",

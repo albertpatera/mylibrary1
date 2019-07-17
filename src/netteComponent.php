@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Buonzz\Template;
+namespace Albertpatera\Template;
 use Buonzz\Template\YourClass AS Base;
 use Nette;
 

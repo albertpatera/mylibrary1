@@ -1,6 +1,6 @@
 <?php
-namespace Buonzz\Template;
-use Buonzz\Template\netteComponent;
+namespace Albertpatera\Template;
+use AlbertPatera\Template\netteComponent;
 
 
 
