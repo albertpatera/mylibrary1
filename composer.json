@@ -9,7 +9,7 @@
             "email": "pateraa@vlp.cz"
         }
     ],
-    "type": "project",
+    "type": "library",
     "require": {
 		"php": ">= 7.1",
 
