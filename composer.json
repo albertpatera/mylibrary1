@@ -1,0 +1,30 @@
+{
+    "name": "albert/composer-library-template",
+    "description": "Boilerplate package for creating other packages.",
+    "keywords": ["template", "composer", "package"],
+    "license": "DBAD",
+    "authors": [
+        {
+            "name": "Albert Patera",
+            "email": "pateraa@vlp.cz"
+        }
+    ],
+    "type": "project",
+    "require": {
+		"php": ">= 7.1",
+
+        "latte/latte": "^2.4",
+        "nette/application": "^3.0",
+        "nette/bootstrap": "^3.0",
+        "tracy/tracy": "^2.6"
+
+    },
+    "require-dev": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Buonzz\\Template\\": "src/"
+        }
+    }
+}
