@@ -14,8 +14,7 @@
 		"php": ">= 7.1",
 
         "latte/latte": "^2.4",
-        "nette/application": "^3.0",
-        "nette/bootstrap": "^3.0",
+        "nette/application": "^2.4",
         "tracy/tracy": "^2.6"
 
     },
@@ -28,3 +27,5 @@
         }
     }
 }
+
+//
